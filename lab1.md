@@ -17,10 +17,10 @@
  САЙТ    | https://www.blackrock.com/corporate/global-directory  | Cell   | Cell  | Cell   | Cell  
  IP NETBLOOK   | 69.52.0.0 - 69.52.255.255  | Cell   | Cell  | Cell   | Cell  
  МЕСТОПОЛОЖЕНИЕ   | 	New York  | Cell   | Cell  | Cell   | Cell  
- ТЕЛЕФОН   | Cell  | Cell   | Cell  | Cell   | Cell  
- E-MAIL АДМИНИСТРАТОРА   | Cell  | Cell   | Cell  | Cell   | Cell  
- ОТКРЫТЫЕ ПОРТЫ   | Cell  | Cell   | Cell  | Cell   | Cell  
+ ТЕЛЕФОН   | +1.2083895740  | Cell   | Cell  | Cell   | Cell  
+ E-MAIL АДМИНИСТРАТОРА   | abusecomplaints@markmonitor.com  | Cell   | Cell  | Cell   | Cell  
+ ОТКРЫТЫЕ ПОРТЫ   | 80б 443  | Cell   | Cell  | Cell   | Cell  
  ХОСТИНГ   | 69.52.13.199 Barclays Global Investors  | Cell   | Cell  | Cell   | Cell  
- WEB-ТЕХНОЛОГИИ   | Cell  | Cell   | Cell  | Cell   | Cell  
+ WEB-ТЕХНОЛОГИИ   | Web-server: nginx, reverse Proxy: Nginx, JavaScript Libraries: jQuery,jQueri UI  | Cell   | Cell  | Cell   | Cell  
 ### Вывод:
 Итак, мы рассмотрели процесс сбора и анализа информации о конкретных компаниях в интернете, воспользовавшись моделью разведывательного цикла и знанием о том, где в интернете есть интересные данные.
