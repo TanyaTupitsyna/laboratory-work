@@ -12,7 +12,7 @@
 ### Содержание лабораторной работы:
 Column | Column | Column | Column | Column 
 ------ | ------ | ------ | ------ |-------
-Признак   | Cell   | Cell   | Cell   | Cell   
+ПРИЗНАК   | Cell   | Cell   | Cell   | Cell   
 Cell   | Cell   | Cell   | Cell   | Cell   
 Cell   | Cell   | Cell   | Cell   | Cell   
 Cell   | Cell   | Cell   | Cell   | Cell   
