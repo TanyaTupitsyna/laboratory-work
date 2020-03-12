@@ -10,7 +10,7 @@
 1. Поиск информации в Интернете.
 2. Использование специализированных утилит и сайтов.
 ### Содержание лабораторной работы:
- \ | BlackRock Inc. | CVS Health Corporation | American Express Company | Micron Technology Inc. | Charter Communications Inc.
+   | BlackRock Inc. | CVS Health Corporation | American Express Company | Micron Technology Inc. | Charter Communications Inc.
  ------ | ------ | ------ | ------ | ------ | ------
  ПРИЗНАК   | Международная инвестиционная компания со штаб-квартирой в Нью-Йорке  | Cell   | Cell  | Cell   | Cell  
  ЗНАЧЕНИЕ   | BlackRock  | Cell   | Cell  | Cell   | Cell  
