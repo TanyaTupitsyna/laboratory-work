@@ -12,9 +12,9 @@
 ### Содержание лабораторной работы:
   \ | BlackRock Inc. | CVS Health Corporation | American Express Company | Micron Technology Inc. | Charter Communications Inc.
  ------ | ------ | ------ | ------ | ------ | ------
- ПРИЗНАК   | Международная инвестиционная компания со штаб-квартирой в Нью-Йорке  | Cell   | Cell  | Cell   | Cell  
- ЗНАЧЕНИЕ   | BlackRock  | Cell   | Cell  | Cell   | Cell  
- САЙТ    | https://www.blackrock.com/corporate/global-directory  | Cell   | Cell  | Cell   | Cell  
+ ПРИЗНАК   | Международная инвестиционная компания со штаб-квартирой в Нью-Йорке  | Jдин из крупнейших в США поставщиков рецептурных препаратов   | Cell  | Cell   | Cell  
+ ЗНАЧЕНИЕ   | BlackRock  | CVS Health   | Cell  | Cell   | Cell  
+ САЙТ    | https://www.blackrock.com/corporate/global-directory  | https://www.cvshealth.com/   | Cell  | Cell   | Cell  
  IP NETBLOOK   | 69.52.0.0 - 69.52.255.255  | Cell   | Cell  | Cell   | Cell  
  МЕСТОПОЛОЖЕНИЕ   | 	New York  | Cell   | Cell  | Cell   | Cell  
  ТЕЛЕФОН   | +1.2083895740  | Cell   | Cell  | Cell   | Cell  
