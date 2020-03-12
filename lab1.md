@@ -15,11 +15,11 @@
  ПРИЗНАК   | Международная инвестиционная компания со штаб-квартирой в Нью-Йорке  | Один из крупнейших в США поставщиков рецептурных препаратов   | Cell  | Cell   | Cell  
  ЗНАЧЕНИЕ   | BlackRock  | CVS Health   | Cell  | Cell   | Cell  
  САЙТ    | https://www.blackrock.com/corporate/global-directory  | https://www.cvshealth.com/   | Cell  | Cell   | Cell  
- IP NETBLOOK   | 69.52.0.0 - 69.52.255.255  | Cell   | Cell  | Cell   | Cell  
- МЕСТОПОЛОЖЕНИЕ   | 	New York  | Cell   | Cell  | Cell   | Cell  
- ТЕЛЕФОН   | +1.2083895740  | Cell   | Cell  | Cell   | Cell  
- E-MAIL АДМИНИСТРАТОРА   | abusecomplaints@markmonitor.com  | Cell   | Cell  | Cell   | Cell  
- ОТКРЫТЫЕ ПОРТЫ   | 80  443  | Cell   | Cell  | Cell   | Cell  
+ IP NETBLOOK   | 69.52.0.0 - 69.52.255.255  | 104.64.0.0 - 104.127.255.255   | Cell  | Cell   | Cell  
+ МЕСТОПОЛОЖЕНИЕ   | 	New York  | Кэмбридж   | Cell  | Cell   | Cell  
+ ТЕЛЕФОН   | Cell  | Cell   | Cell  | Cell   | Cell  
+ E-MAIL АДМИНИСТРАТОРА   | Cell  | Cell   | Cell  | Cell   | Cell  
+ ОТКРЫТЫЕ ПОРТЫ   | 80  443  | 80 443   | Cell  | Cell   | Cell  
  ХОСТИНГ   | 69.52.13.199 Barclays Global Investors  | a23-45-100-49.deploy.static.akamaitechnologies.com   | Cell  | Cell   | Cell  
  WEB-ТЕХНОЛОГИИ   | Web-server: nginx, reverse Proxy: Nginx, JavaScript Libraries: jQuery,jQueri UI  | CMS: Drupal, Виджет: AddThis, Аналитика: Google Analytics, New Relic, Web-server: Apache, Amazon EC2, Кеширование: Varnish, Язык программирования: PHP, Управление маркетингом: Mautic, База данных: Percona, Менеджер тэгов: Google Tag Manager, JavaScript Libraries: Modernizr, Slick, jQueri 3.4.1, Fingerprintjs 1.4.4, Lodash 4.17.15, PaaS: Acquia Cloud, Amazon Web Services   | Cell  | Cell   | Cell  
 ### Вывод:
