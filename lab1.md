@@ -8,7 +8,14 @@
 4. Список S&P 500
 ### Варианты решения задачи:
 1. Поиск информации в Интернете.
-2. Использование специализированных утилит и сайтов.
+2. Использование специализированных утилит и сайтов:
+- shodan
+- censys
+- nmap
+- 2ip
+- nslookup
+- whois
+- wappalyzer what
 ### Содержание лабораторной работы:
   \ | BlackRock Inc. | CVS Health Corporation | American Express Company | Micron Technology Inc. | Charter Communications Inc.
  ------ | ------ | ------ | ------ | ------ | ------
