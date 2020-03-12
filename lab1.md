@@ -17,7 +17,7 @@
 - whois
 - wappalyzer what
 ### Содержание лабораторной работы:
-  \ | BlackRock Inc. | CVS Health Corporation | American Express Company | Micron Technology Inc. | Charter Communications Inc.
+  ⠀⠀⠀ | BlackRock Inc. | CVS Health Corporation | American Express Company | Micron Technology Inc. | Charter Communications Inc.
  ------ | ------ | ------ | ------ | ------ | ------
  ПРИЗНАК   | Международная инвестиционная компания со штаб-квартирой в Нью-Йорке  | Один из крупнейших в США поставщиков рецептурных препаратов   | Американская финансовая компания  |  Американская транснациональная корпорация, известная своей полупроводниковой продукцией, основную часть которой составляют чипы памяти DRAM и NAND, флеш память, SSD-накопители, а также датчики CMOS   | Обыкновенные акции  
  ЗНАЧЕНИЕ   | BlackRock  | CVS Health   | American Express, AmEx  | Micron Technology   | Charter Communications  
