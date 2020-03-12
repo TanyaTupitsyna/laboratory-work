@@ -10,7 +10,7 @@
 1. Поиск информации в Интернете.
 2. Использование специализированных утилит и сайтов.
 ### Содержание лабораторной работы:
- Column | Column | Column | Column | Column | Column
+ Column | BlackRock Inc. | CVS Health Corporation | American Express Company | Micron Technology Inc. | Charter Communications Inc.
  ------ | ------ | ------ | ------ | ------ | ------
  
 ### Вывод:
