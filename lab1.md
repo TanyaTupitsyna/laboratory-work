@@ -19,7 +19,7 @@
  МЕСТОПОЛОЖЕНИЕ   | 	New York  | Cell   | Cell  | Cell   | Cell  
  ТЕЛЕФОН   | +1.2083895740  | Cell   | Cell  | Cell   | Cell  
  E-MAIL АДМИНИСТРАТОРА   | abusecomplaints@markmonitor.com  | Cell   | Cell  | Cell   | Cell  
- ОТКРЫТЫЕ ПОРТЫ   | 80б 443  | Cell   | Cell  | Cell   | Cell  
+ ОТКРЫТЫЕ ПОРТЫ   | 80  443  | Cell   | Cell  | Cell   | Cell  
  ХОСТИНГ   | 69.52.13.199 Barclays Global Investors  | Cell   | Cell  | Cell   | Cell  
  WEB-ТЕХНОЛОГИИ   | Web-server: nginx, reverse Proxy: Nginx, JavaScript Libraries: jQuery,jQueri UI  | Cell   | Cell  | Cell   | Cell  
 ### Вывод:
