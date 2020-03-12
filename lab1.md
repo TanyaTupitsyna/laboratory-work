@@ -12,6 +12,15 @@
 ### Содержание лабораторной работы:
 Column | Column | Column | Column | Column 
 ------ | ------ | ------ | ------ |-------
-Cell   | Cell   | Cell   | Cell   | Cell    
+Cell   | Cell   | Cell   | Cell   | Cell   
+Cell   | Cell   | Cell   | Cell   | Cell   
+Cell   | Cell   | Cell   | Cell   | Cell   
+Cell   | Cell   | Cell   | Cell   | Cell   
+Cell   | Cell   | Cell   | Cell   | Cell   
+Cell   | Cell   | Cell   | Cell   | Cell   
+Cell   | Cell   | Cell   | Cell   | Cell   
+Cell   | Cell   | Cell   | Cell   | Cell   
+Cell   | Cell   | Cell   | Cell   | Cell   
+Cell   | Cell   | Cell   | Cell   | Cell   
 ### Вывод:
 Итак, мы рассмотрели процесс сбора и анализа информации о конкретных компаниях в интернете, воспользовавшись моделью разведывательного цикла и знанием о том, где в интернете есть интересные данные.
