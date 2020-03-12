@@ -13,14 +13,14 @@
 Column | Column | Column | Column | Column 
 ------ | ------ | ------ | ------ |-------
 ПРИЗНАК   | Cell   | Cell   | Cell   | Cell   
-Cell   | Cell   | Cell   | Cell   | Cell   
-Cell   | Cell   | Cell   | Cell   | Cell   
-Cell   | Cell   | Cell   | Cell   | Cell   
-Cell   | Cell   | Cell   | Cell   | Cell   
-Cell   | Cell   | Cell   | Cell   | Cell   
-Cell   | Cell   | Cell   | Cell   | Cell   
-Cell   | Cell   | Cell   | Cell   | Cell   
-Cell   | Cell   | Cell   | Cell   | Cell   
-Cell   | Cell   | Cell   | Cell   | Cell   
+ЗНАЧЕНИЕ   | Cell   | Cell   | Cell   | Cell   
+САЙТ   | Cell   | Cell   | Cell   | Cell   
+IP NETBLOOK   | Cell   | Cell   | Cell   | Cell   
+МЕСТОПОЛОЖЕНИЕ   | Cell   | Cell   | Cell   | Cell   
+ТЕЛЕФОН   | Cell   | Cell   | Cell   | Cell   
+E-MAIL АДМИНИСТРАТОРА   | Cell   | Cell   | Cell   | Cell   
+ОТКРЫТЫЕ ПОРТЫ   | Cell   | Cell   | Cell   | Cell   
+ХОСТИНГ   | Cell   | Cell   | Cell   | Cell   
+WEB-ТЕХНОЛОГИИ   | Cell   | Cell   | Cell   | Cell   
 ### Вывод:
 Итак, мы рассмотрели процесс сбора и анализа информации о конкретных компаниях в интернете, воспользовавшись моделью разведывательного цикла и знанием о том, где в интернете есть интересные данные.
